@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(39, 39, 39);
+}
+
+header {
+    background-color: black;
+    padding: 30px 0;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 15px;
+    color: azure;
+}
+
+.mainpadrão {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.tp {
+    width: 1000px;
+    margin: auto;
+    justify-content: space-evenly;
+    gap: 60px;
+}
+
+li {
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    border: solid 3px rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+}
+
+.tp :hover{
+    border-color: darkgoldenrod;
+}
+
+nav ul {
+    display: flex;
+}
+
+header p {
+    color: aliceblue;
+    text-align: center;
+}
+
+#kakygordo {
+    width: 500px;
+    height: 250px;
+}
+
+h2 {
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.separador {
+    background: rgb(0, 195, 255);
+    height: 1px;
+}
